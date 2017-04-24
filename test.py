@@ -9,9 +9,7 @@ email:	chuanyuyao123@163.com
 """
 test new
 """
-"""
-test clone and push
-"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 import networkx as nx

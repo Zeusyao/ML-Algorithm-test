@@ -6,7 +6,9 @@ plot graph with networkX.
 author: Chuanyu Yao
 email:	chuanyuyao123@163.com
 """
-
+"""
+test new
+"""
 import numpy as np
 import matplotlib.pyplot as plt
 import networkx as nx
